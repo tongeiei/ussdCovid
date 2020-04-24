@@ -47,7 +47,7 @@ public class SubmitOMX {
     }
     public static void main(String[] args) throws Exception {
 	
-	     	Scanner scanner = new Scanner(System.in);
+	     	Scanner scanner = new Scanner(System.in); 
 	     	
 	     	System.out.println("Enter limit record.");
 	     	String num_of_record = scanner.next();
